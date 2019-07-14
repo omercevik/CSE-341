@@ -1,7 +1,10 @@
-# CSE-341
-Programming Languages
+# Gebze Technical University
+# Computer Engineering
+# CSE-341 Programming Languages
 
 HW 0 -> Basic Common LISP code.
+
+HW 2 -> It was handwritten.
 
 HW 3 -> Prolog codes.
 
